@@ -1,4 +1,4 @@
-/var/qemu3/bin/qemu-x86_64 ./t1 /proc/cpuinfo
+
 =================================================================
 ==140863==ERROR: AddressSanitizer: heap-buffer-overflow on address 0x6020000108b0 at pc 0x5642cbff3780 bp 0x7fffd5ab3f30 sp 0x7fffd5ab3f20
 WRITE of size 4 at 0x6020000108b0 thread T0
